@@ -1,5 +1,5 @@
-<h1 align="center">Hello World</h1>
-<h1 align="center">i'm Iman Ojie</h1>
+<h1 align="center">HELLO WORLD</h1>
+<h1 align="center">I'm Iman Ojie</h1>
 <h3 align="center">PHP Fullstack Developer</h3>
 
 🧠 I'm currently learning...
