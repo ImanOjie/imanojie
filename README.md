@@ -17,6 +17,6 @@
 ## 🛠 Skills
 HTML , CSS , JAVASCRIPT , JQUERY , BOOTSTRAP , PHP , MYSQL , LARAVEL , 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=imanojie&layout=compact&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=imanojie&layout=compact&theme=transparent)
 
 <h1> <a href="https://imanojie.github.io/introduction/" target="_blank" >Languages and Tools</a> </h1>
