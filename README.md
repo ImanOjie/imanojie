@@ -6,7 +6,7 @@
 
 🧠 I'm currently learning...
 
-![](https://github.com/alinebastos/images/blob/master/pinguim.gif)
+![](https://github.com/ImanOjie/images/blob/main/pinguim.gif)
 
 - 📫 How to reach me **dr.iodeveloper@gmail.com**
 
