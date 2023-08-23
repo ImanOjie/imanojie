@@ -5,6 +5,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=imanojie&label=Profile%20views&color=0e75b6&style=flat" alt="imanojie" /></p>
 
 🧠 I'm currently learning...
+🧠 I'm Looking For Job...
 
 ![](https://github.com/ImanOjie/images/blob/main/pinguim.gif)
 
