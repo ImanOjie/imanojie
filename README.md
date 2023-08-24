@@ -8,7 +8,9 @@
 
 🧠 I'm Looking For Job...
 
+<p align="center">
 ![](https://github.com/ImanOjie/images/blob/main/pinguim.gif)
+</p>
 
 - 📫 How to reach me **dr.iodeveloper@gmail.com**
 
@@ -19,5 +21,10 @@
 HTML , CSS , JAVASCRIPT , JQUERY , BOOTSTRAP , PHP , MYSQL , LARAVEL 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=imanojie&layout=compact&theme=transparent)
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=imanojie&show_icons=true&theme=monokai" alt="Iman Ojie's GitHub stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=imanojie&theme=monokai" alt="Iman Ojie's Github Steak" /><br>
+</p>
 
 <h1> <a href="https://imanojie.github.io/introduction/" target="_blank" >Languages and Tools</a> </h1>
