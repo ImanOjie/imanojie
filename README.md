@@ -8,7 +8,7 @@
 
 <p align="center">
 <img src="https://github.com/ImanOjie/images/blob/main/pinguim.gif?raw=true" alt="pinguim" />
-</p>
+</p><br>
 
 
 - 📫 How to reach me **dr.iodeveloper@gmail.com**
@@ -19,7 +19,9 @@
 ## 🛠 Skills
 HTML , CSS , JAVASCRIPT , JQUERY , BOOTSTRAP , PHP , MYSQL , LARAVEL 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=imanojie&layout=compact&theme=transparent)
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=imanojie&layout=compact&theme=transparent" alt="Iman Ojie's" />
+</p>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=imanojie&show_icons=true&theme=monokai" alt="Iman Ojie's GitHub stats" />
