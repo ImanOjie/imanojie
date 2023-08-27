@@ -7,7 +7,7 @@
 🧠 I'm currently learning...
 
 <p align="center">
-<img src="https://github.com/ImanOjie/images/blob/main/pinguim.gif?raw=true" alt="pinguim" />
+<img src="https://github.com/ImanOjie/images/blob/main/developer-gif.gif?raw=true" alt="developer" />
 </p><br>
 
 
