@@ -13,6 +13,8 @@
    ✔️website: https://ImanOjie.github.io/resume
  
    ✔️email: dr.iodeveloper@gmail.com
+
+   ✔️Telegram: https://t.me/imanojie
    
  <br>
 
