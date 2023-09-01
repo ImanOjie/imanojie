@@ -6,6 +6,8 @@
 
 🧠 I'm currently learning...
 
+![GitHub release (latest by date)](https://img.shields.io/github/v/release/ImanOjie/ImsnOjie.pdf?label=Resume&logo=github&style=for-the-badge)
+
 <p align="center">
 <img src="https://github.com/ImanOjie/images/blob/main/developer-gif.gif?raw=true" alt="developer" />
 </p><br>
