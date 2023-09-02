@@ -3,7 +3,7 @@
 <h1 align="center">HELLO 🤓 WORLD</h1>
 
 <p align="center">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=500&center=true&vCenter=true&multiline=true&width=1000&height=100&lines=I'm+Iman+Ojie+;PHP (LARAVEL) Fullstack+Developer" alt="Iman Ojie" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=500&center=true&vCenter=true&multiline=true&width=390&height=100&lines=I'm+Iman+Ojie+;PHP (LARAVEL) Fullstack+Developer" alt="Iman Ojie" />
 </p>
 
 <h1>😏 YOU CAN SEE MY RESUME 👇</h1>
