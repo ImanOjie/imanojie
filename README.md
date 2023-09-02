@@ -33,11 +33,18 @@
 
 <br>
 
-<p align="left">
+<p align="center">
+    
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=imanojie&layout=compact&theme=transparent" alt="Iman Ojie's" />
+
 </p>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=imanojie&show_icons=true&theme=monokai" alt="Iman Ojie's GitHub stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=imanojie&theme=monokai" alt="Iman Ojie's Github Steak" /><br>
+  
+  <br>
+  
+  <br>
+    
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=imanojie&theme=monokai" alt="Iman Ojie's Github Steak" />
 </p>
