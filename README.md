@@ -10,7 +10,7 @@
 
  <br>
  
-   🟢 website RESUME: https://ImanOjie.github.io/resume
+   🟢 website RESUME: https://imanojie.github.io/resume-Portfolio
  
    🟢 email: dr.iodeveloper@gmail.com
 
