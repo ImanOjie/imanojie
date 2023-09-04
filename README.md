@@ -35,16 +35,18 @@
 
 <p align="center">
     
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=imanojie&layout=compact&theme=transparent" alt="Iman Ojie's" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=imanojie&count_forked=true&layout=compact&theme=transparent" alt="Iman Ojie's" />
 
-</p>
+<br>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=imanojie&show_icons=true&theme=monokai" alt="Iman Ojie's GitHub stats" />
+<br>
+
+<img src="https://github-readme-stats.vercel.app/api?username=imanojie&show_icons=true&count_forked=true&theme=monokai" alt="Iman Ojie's GitHub stats" />
   
-  <br>
+<br>
   
-  <br>
+<br>
     
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=imanojie&theme=monokai" alt="Iman Ojie's Github Steak" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=imanojie&theme=monokai" alt="Iman Ojie's Github Steak" />
+
 </p>
