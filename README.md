@@ -18,7 +18,7 @@
 
    🟢 Stack Overflow: https://stackoverflow.com/users/21984623/imanojie
 
-   🟢 Telegram: https://t.me/imanojie
+   🟢 Telegram: https://t.me/Dr_io
    
  <br>
 
