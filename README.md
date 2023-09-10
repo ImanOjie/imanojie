@@ -46,7 +46,5 @@
 <br>
   
 <br>
-    
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=imanojie&theme=monokai" alt="Iman Ojie's Github Steak" />
 
 </p>
