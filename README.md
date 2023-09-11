@@ -43,8 +43,5 @@
 
 <img src="https://github-readme-stats.vercel.app/api?username=imanojie&show_icons=true&count_forked=true&theme=monokai" alt="Iman Ojie's GitHub stats" />
   
-<br>
-  
-<br>
 
 </p>
