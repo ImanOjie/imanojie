@@ -10,8 +10,6 @@
 
  <br>
  
-   🟢 website RESUME: https://imanojie.github.io/resume-Portfolio-Frontend
- 
    🟢 email: dr.iodeveloper@gmail.com
 
    🟢 Linked in: https://linkedin.com/in/iman-ojie
