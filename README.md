@@ -14,7 +14,7 @@
  
    🟢 email: dr.iodeveloper@gmail.com
 
-   🟢 Linked in: https://linkedin.com/in/iman-ojie
+   🟢 Linked in: https://linkedin.com/in/iman-og
 
    🟢 Stack Overflow: https://stackoverflow.com/users/21984623/imanog
 
