@@ -1,22 +1,22 @@
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=imanojie&label=Profile%20views&color=0e75b6&style=flat" alt="imanojie" /></p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=imanog&label=Profile%20views&color=0e75b6&style=flat" alt="imanog" /></p>
 
 <h1 align="center">HELLO 🤓 WORLD</h1>
 
 <p align="center">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=500&center=true&vCenter=true&multiline=true&width=390&height=100&lines=I'm+Iman+Ojie+;PHP (LARAVEL) +Developer" alt="Iman Ojie" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=500&center=true&vCenter=true&multiline=true&width=390&height=100&lines=I'm+Iman+OG+;PHP (LARAVEL) +Developer" alt="Iman Og" />
 </p>
 
 <h1>⏬ WAYS OF MY COMMUNICATION </h1>
 
  <br>
 
-   🟢 Website: https://imanojie.ir
+   🟢 Website: https://imanog.ir
  
    🟢 email: dr.iodeveloper@gmail.com
 
    🟢 Linked in: https://linkedin.com/in/iman-ojie
 
-   🟢 Stack Overflow: https://stackoverflow.com/users/21984623/imanojie
+   🟢 Stack Overflow: https://stackoverflow.com/users/21984623/imanog
 
    🟢 Telegram: https://t.me/Dr_io
    
