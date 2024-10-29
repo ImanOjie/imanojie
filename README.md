@@ -36,7 +36,7 @@
 
 <p align="center">
     
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=imanojie&count_forked=true&layout=compact&theme=transparent" alt="Iman Ojie's" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=imanog&count_forked=true&layout=compact&theme=transparent" alt="Iman Og's" />
 
 <br>
 
