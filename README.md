@@ -3,7 +3,7 @@
 <h1 align="center">HELLO 🤓 WORLD</h1>
 
 <p align="center">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=500&center=true&vCenter=true&multiline=true&width=390&height=100&lines=I'm+Iman+OG+;PHP (LARAVEL) +Developer" alt="Iman Og" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=500&center=true&vCenter=true&multiline=true&width=390&height=100&lines=I'm+IMAN+OG+;PHP (LARAVEL) +Developer" alt="Iman Og" />
 </p>
 
 <h1>⏬ WAYS OF MY COMMUNICATION </h1>
